@@ -3,6 +3,8 @@
 
 Le captcha est un test requis pour accéder à certains services sur Internet, qui consiste à saisir une courte séquence visible sur une image, afin de différencier les utilisateurs humains d'éventuels robots malveillants.
 
+Si vous voulez savoir comment utiliser le captcah et autre veuillez aller sur le wiki
+
 Pour que votre captcha soi opérationnel copié le dossier captcha dans votre répertoire www d'uwamp, ensuite ouvrer phpmyadmin via uwamp cliquez sur captcha et voila votre captcha est prêt.
 
 Si vous voulez faire des modifications faites le sur script-captcha.php, vous trouver le détail du captcha.
